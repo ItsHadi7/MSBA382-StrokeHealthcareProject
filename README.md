@@ -14,6 +14,7 @@ built for MSBA382 Healthcare Analytics individual project.
 - `utils.py` — shared data loading/cleaning
 - `data.csv` — the stroke dataset
 - `requirements.txt` — Python dependencies
+- `who_stroke_dalt_by_country_2021` - WHO DALYs for 185 countries in 2021
 
 ## Password
 `stroke2026`
