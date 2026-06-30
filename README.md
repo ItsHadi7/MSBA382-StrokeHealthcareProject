@@ -9,7 +9,8 @@ built for MSBA382 Healthcare Analytics individual project.
 - `pages/2_Demographics.py` — age & gender breakdown
 - `pages/3_Risk_Factors.py` — hypertension, heart disease, glucose, BMI, smoking
 - `pages/4_Lifestyle_Work.py` — work type, residence, marital status
-- `pages/5_Predictive_Model.py` — ML model (Logistic Regression / Random Forest) + interactive risk calculator
+- `pages/5_Geographic_Burden.py` — WHO DALYs by Country
+- `pages/6_Predictive_Model.py` — ML model (Logistic Regression / Random Forest) + interactive risk calculator
 - `utils.py` — shared data loading/cleaning
 - `data.csv` — the stroke dataset
 - `requirements.txt` — Python dependencies
